@@ -1,0 +1,582 @@
+{
+  "P001": [
+    {
+      "content": "Patient admitted with high fever and cough. Diagnosed with pneumonia. Started IV antibiotics.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "doctor_notes",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "Ceftriaxone 1g IV every 12 hours for 5 days. Paracetamol 500mg as needed for fever.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "prescription",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "WBC: 13,000/mm³ (elevated), CRP: 45 mg/L. Chest X-ray shows infiltrates in right lower lobe.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "lab_report",
+        "date": "2025-10-21"
+      }
+    },
+    {
+      "content": "Patient responding well to antibiotics. Temperature normal for last 24 hours.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "progress_note",
+        "date": "2025-10-23"
+      }
+    },
+    {
+      "content": "Diagnosed pneumonia, treated with antibiotics, patient stable and discharged with oral medication for 3 days.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "discharge_summary",
+        "date": "2025-10-25"
+      }
+    },
+    {
+      "content": "Patient admitted with high fever and cough. Diagnosed with pneumonia. Started IV antibiotics.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "doctor_notes",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "Ceftriaxone 1g IV every 12 hours for 5 days. Paracetamol 500mg as needed for fever.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "prescription",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "WBC: 13,000/mm³ (elevated), CRP: 45 mg/L. Chest X-ray shows infiltrates in right lower lobe.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "lab_report",
+        "date": "2025-10-21"
+      }
+    },
+    {
+      "content": "Patient responding well to antibiotics. Temperature normal for last 24 hours.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "progress_note",
+        "date": "2025-10-23"
+      }
+    },
+    {
+      "content": "Diagnosed pneumonia, treated with antibiotics, patient stable and discharged with oral medication for 3 days.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "discharge_summary",
+        "date": "2025-10-25"
+      }
+    },
+    {
+      "content": "Patient admitted with high fever and cough. Diagnosed with pneumonia. Started IV antibiotics.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "doctor_notes",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "Ceftriaxone 1g IV every 12 hours for 5 days. Paracetamol 500mg as needed for fever.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "prescription",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "WBC: 13,000/mm³ (elevated), CRP: 45 mg/L. Chest X-ray shows infiltrates in right lower lobe.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "lab_report",
+        "date": "2025-10-21"
+      }
+    },
+    {
+      "content": "Patient responding well to antibiotics. Temperature normal for last 24 hours.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "progress_note",
+        "date": "2025-10-23"
+      }
+    },
+    {
+      "content": "Diagnosed pneumonia, treated with antibiotics, patient stable and discharged with oral medication for 3 days.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "discharge_summary",
+        "date": "2025-10-25"
+      }
+    },
+    {
+      "content": "Patient admitted with high fever and cough. Diagnosed with pneumonia. Started IV antibiotics.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "doctor_notes",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "Ceftriaxone 1g IV every 12 hours for 5 days. Paracetamol 500mg as needed for fever.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "prescription",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "WBC: 13,000/mm³ (elevated), CRP: 45 mg/L. Chest X-ray shows infiltrates in right lower lobe.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "lab_report",
+        "date": "2025-10-21"
+      }
+    },
+    {
+      "content": "Patient responding well to antibiotics. Temperature normal for last 24 hours.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "progress_note",
+        "date": "2025-10-23"
+      }
+    },
+    {
+      "content": "Diagnosed pneumonia, treated with antibiotics, patient stable and discharged with oral medication for 3 days.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "discharge_summary",
+        "date": "2025-10-25"
+      }
+    },
+    {
+      "content": "Patient admitted with high fever and cough. Diagnosed with pneumonia. Started IV antibiotics.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "doctor_notes",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "Ceftriaxone 1g IV every 12 hours for 5 days. Paracetamol 500mg as needed for fever.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "prescription",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "WBC: 13,000/mm³ (elevated), CRP: 45 mg/L. Chest X-ray shows infiltrates in right lower lobe.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "lab_report",
+        "date": "2025-10-21"
+      }
+    },
+    {
+      "content": "Patient responding well to antibiotics. Temperature normal for last 24 hours.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "progress_note",
+        "date": "2025-10-23"
+      }
+    },
+    {
+      "content": "Diagnosed pneumonia, treated with antibiotics, patient stable and discharged with oral medication for 3 days.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "discharge_summary",
+        "date": "2025-10-25"
+      }
+    },
+    {
+      "content": "Patient admitted with high fever and cough. Diagnosed with pneumonia. Started IV antibiotics.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "doctor_notes",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "Ceftriaxone 1g IV every 12 hours for 5 days. Paracetamol 500mg as needed for fever.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "prescription",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "WBC: 13,000/mm³ (elevated), CRP: 45 mg/L. Chest X-ray shows infiltrates in right lower lobe.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "lab_report",
+        "date": "2025-10-21"
+      }
+    },
+    {
+      "content": "Patient responding well to antibiotics. Temperature normal for last 24 hours.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "progress_note",
+        "date": "2025-10-23"
+      }
+    },
+    {
+      "content": "Diagnosed pneumonia, treated with antibiotics, patient stable and discharged with oral medication for 3 days.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "discharge_summary",
+        "date": "2025-10-25"
+      }
+    },
+    {
+      "content": "Patient admitted with high fever and cough. Diagnosed with pneumonia. Started IV antibiotics.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "doctor_notes",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "Ceftriaxone 1g IV every 12 hours for 5 days. Paracetamol 500mg as needed for fever.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "prescription",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "WBC: 13,000/mm³ (elevated), CRP: 45 mg/L. Chest X-ray shows infiltrates in right lower lobe.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "lab_report",
+        "date": "2025-10-21"
+      }
+    },
+    {
+      "content": "Patient responding well to antibiotics. Temperature normal for last 24 hours.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "progress_note",
+        "date": "2025-10-23"
+      }
+    },
+    {
+      "content": "Diagnosed pneumonia, treated with antibiotics, patient stable and discharged with oral medication for 3 days.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "discharge_summary",
+        "date": "2025-10-25"
+      }
+    },
+    {
+      "content": "Patient admitted with high fever and cough. Diagnosed with pneumonia. Started IV antibiotics.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "doctor_notes",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "Ceftriaxone 1g IV every 12 hours for 5 days. Paracetamol 500mg as needed for fever.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "prescription",
+        "date": "2025-10-20"
+      }
+    },
+    {
+      "content": "WBC: 13,000/mm³ (elevated), CRP: 45 mg/L. Chest X-ray shows infiltrates in right lower lobe.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "lab_report",
+        "date": "2025-10-21"
+      }
+    },
+    {
+      "content": "Patient responding well to antibiotics. Temperature normal for last 24 hours.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "progress_note",
+        "date": "2025-10-23"
+      }
+    },
+    {
+      "content": "Diagnosed pneumonia, treated with antibiotics, patient stable and discharged with oral medication for 3 days.",
+      "metadata": {
+        "patient_id": "P001",
+        "doc_type": "discharge_summary",
+        "date": "2025-10-25"
+      }
+    }
+  ],
+  "P002": [
+    {
+      "content": "Patient admitted with chest pain. ECG shows mild abnormality, troponin levels normal.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "doctor_notes",
+        "date": "2025-09-10"
+      }
+    },
+    {
+      "content": "Cholesterol 220 mg/dL, Triglycerides 180 mg/dL, normal liver and kidney function tests.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "lab_report",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Atorvastatin 10mg daily, aspirin 75mg daily.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "prescription",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Diagnosed with non-cardiac chest pain, advised diet modification and medication.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "discharge_summary",
+        "date": "2025-09-13"
+      }
+    },
+    {
+      "content": "Patient admitted with chest pain. ECG shows mild abnormality, troponin levels normal.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "doctor_notes",
+        "date": "2025-09-10"
+      }
+    },
+    {
+      "content": "Cholesterol 220 mg/dL, Triglycerides 180 mg/dL, normal liver and kidney function tests.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "lab_report",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Atorvastatin 10mg daily, aspirin 75mg daily.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "prescription",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Diagnosed with non-cardiac chest pain, advised diet modification and medication.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "discharge_summary",
+        "date": "2025-09-13"
+      }
+    },
+    {
+      "content": "Patient admitted with chest pain. ECG shows mild abnormality, troponin levels normal.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "doctor_notes",
+        "date": "2025-09-10"
+      }
+    },
+    {
+      "content": "Cholesterol 220 mg/dL, Triglycerides 180 mg/dL, normal liver and kidney function tests.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "lab_report",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Atorvastatin 10mg daily, aspirin 75mg daily.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "prescription",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Diagnosed with non-cardiac chest pain, advised diet modification and medication.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "discharge_summary",
+        "date": "2025-09-13"
+      }
+    },
+    {
+      "content": "Patient admitted with chest pain. ECG shows mild abnormality, troponin levels normal.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "doctor_notes",
+        "date": "2025-09-10"
+      }
+    },
+    {
+      "content": "Cholesterol 220 mg/dL, Triglycerides 180 mg/dL, normal liver and kidney function tests.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "lab_report",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Atorvastatin 10mg daily, aspirin 75mg daily.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "prescription",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Diagnosed with non-cardiac chest pain, advised diet modification and medication.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "discharge_summary",
+        "date": "2025-09-13"
+      }
+    },
+    {
+      "content": "Patient admitted with chest pain. ECG shows mild abnormality, troponin levels normal.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "doctor_notes",
+        "date": "2025-09-10"
+      }
+    },
+    {
+      "content": "Cholesterol 220 mg/dL, Triglycerides 180 mg/dL, normal liver and kidney function tests.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "lab_report",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Atorvastatin 10mg daily, aspirin 75mg daily.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "prescription",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Diagnosed with non-cardiac chest pain, advised diet modification and medication.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "discharge_summary",
+        "date": "2025-09-13"
+      }
+    },
+    {
+      "content": "Patient admitted with chest pain. ECG shows mild abnormality, troponin levels normal.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "doctor_notes",
+        "date": "2025-09-10"
+      }
+    },
+    {
+      "content": "Cholesterol 220 mg/dL, Triglycerides 180 mg/dL, normal liver and kidney function tests.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "lab_report",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Atorvastatin 10mg daily, aspirin 75mg daily.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "prescription",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Diagnosed with non-cardiac chest pain, advised diet modification and medication.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "discharge_summary",
+        "date": "2025-09-13"
+      }
+    },
+    {
+      "content": "Patient admitted with chest pain. ECG shows mild abnormality, troponin levels normal.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "doctor_notes",
+        "date": "2025-09-10"
+      }
+    },
+    {
+      "content": "Cholesterol 220 mg/dL, Triglycerides 180 mg/dL, normal liver and kidney function tests.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "lab_report",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Atorvastatin 10mg daily, aspirin 75mg daily.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "prescription",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Diagnosed with non-cardiac chest pain, advised diet modification and medication.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "discharge_summary",
+        "date": "2025-09-13"
+      }
+    },
+    {
+      "content": "Patient admitted with chest pain. ECG shows mild abnormality, troponin levels normal.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "doctor_notes",
+        "date": "2025-09-10"
+      }
+    },
+    {
+      "content": "Cholesterol 220 mg/dL, Triglycerides 180 mg/dL, normal liver and kidney function tests.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "lab_report",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Atorvastatin 10mg daily, aspirin 75mg daily.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "prescription",
+        "date": "2025-09-11"
+      }
+    },
+    {
+      "content": "Diagnosed with non-cardiac chest pain, advised diet modification and medication.",
+      "metadata": {
+        "patient_id": "P002",
+        "doc_type": "discharge_summary",
+        "date": "2025-09-13"
+      }
+    }
+  ]
+}

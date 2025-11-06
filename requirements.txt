@@ -1,0 +1,6 @@
+chromadb
+google-generativeai
+flask
+numpy
+pandas
+streamlit

@@ -1,0 +1,57 @@
+[
+  {
+    "patient_id": "P001",
+    "documents": [
+      {
+        "doc_type": "doctor_notes",
+        "date": "2025-10-20",
+        "text": "Patient admitted with high fever and cough. Diagnosed with pneumonia. Started IV antibiotics."
+      },
+      {
+        "doc_type": "prescription",
+        "date": "2025-10-20",
+        "text": "Ceftriaxone 1g IV every 12 hours for 5 days. Paracetamol 500mg as needed for fever."
+      },
+      {
+        "doc_type": "lab_report",
+        "date": "2025-10-21",
+        "text": "WBC: 13,000/mm³ (elevated), CRP: 45 mg/L. Chest X-ray shows infiltrates in right lower lobe."
+      },
+      {
+        "doc_type": "progress_note",
+        "date": "2025-10-23",
+        "text": "Patient responding well to antibiotics. Temperature normal for last 24 hours."
+      },
+      {
+        "doc_type": "discharge_summary",
+        "date": "2025-10-25",
+        "text": "Diagnosed pneumonia, treated with antibiotics, patient stable and discharged with oral medication for 3 days."
+      }
+    ]
+  },
+  {
+    "patient_id": "P002",
+    "documents": [
+      {
+        "doc_type": "doctor_notes",
+        "date": "2025-09-10",
+        "text": "Patient admitted with chest pain. ECG shows mild abnormality, troponin levels normal."
+      },
+      {
+        "doc_type": "lab_report",
+        "date": "2025-09-11",
+        "text": "Cholesterol 220 mg/dL, Triglycerides 180 mg/dL, normal liver and kidney function tests."
+      },
+      {
+        "doc_type": "prescription",
+        "date": "2025-09-11",
+        "text": "Atorvastatin 10mg daily, aspirin 75mg daily."
+      },
+      {
+        "doc_type": "discharge_summary",
+        "date": "2025-09-13",
+        "text": "Diagnosed with non-cardiac chest pain, advised diet modification and medication."
+      }
+    ]
+  }
+]
